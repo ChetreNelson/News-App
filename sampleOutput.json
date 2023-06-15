@@ -1,0 +1,96 @@
+{
+  "status": "ok",
+  "totalResults": 9,
+  "articles": [
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "CBS News",
+      "title": "Teenage football player among 4 killed in Alabama mass shooting",
+      "description": "At least four people and dozens more were injured at a birthday party Sunday night in Alabama. Omar Villafranca joins \"CBS News Mornings\" from Dadeville with more about what we know about the victims.",
+      "url": "https://www.cbsnews.com/video/teenage-football-player-among-four-killed-in-alabama-mass-shooting/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/04/17/e7c3327e-d3a5-4e27-a55a-1cc809126307/thumbnail/1200x630/ed2409e2aebc89c4b2f36bec51ccecf3/cbsn-fusion-teenage-football-player-among-four-killed-in-alabama-mass-shooting-thumbnail-1890793-640x360.jpg",
+      "publishedAt": "2023-04-17T14:32:35+00:00",
+      "content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Tyson Otto",
+      "title": "Ablett in Supreme Court action against AFL",
+      "description": "<p>Football icon Gary Ablett Sr is suing the AFL and his former clubs, Geelong and Hawthorn. </p>",
+      "url": "https://www.news.com.au/sport/afl/gary-ablett-sr-takes-supreme-court-action-against-the-afl/news-story/b1079cbd6d6c2452b2f7ef0a7198a74c",
+      "urlToImage": "https://content.api.news/v3/images/bin/6b622ac45eed85f99cd0801afb266016",
+      "publishedAt": "2023-04-17T13:41:00Z",
+      "content": "Football icon Gary Ablett Sr is suing the AFL and his former clubs, Geelong and Hawthorn. \r\nThe Cats legend has taken action through the Supreme Court claiming the league and his former teams failed … [+3539 chars]"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "Jake Lambourne",
+      "title": "I played for Brighton and Portsmouth but quit football aged 26 – now I’m a millionaire real estate agent in...",
+      "description": "",
+      "url": "https://talksport.com/football/efl/1394121/john-sullivan-football-retire-real-estate-las-vegas/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/04/HB-TALKSPORT-SULLIVAN.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-04-17T13:27:26Z",
+      "content": "Retirement is often seen as the low point of a footballer’s career with many left wondering what to do and how they are going to make money.\r\nAnd few professional athletes decide to walk away from th… [+5442 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Alabama shooting: Young football star Phil Dowdell killed in Alabama shooting",
+      "description": "Four were killed at a 16-year-old girl's birthday party on Saturday in the small town of Dadeville.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-65298018",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5990/production/_129382922_77fc43ab4b716741b51b05de7264ef5e95ba2bca0_138_4707_26481000x563.jpg",
+      "publishedAt": "2023-04-17T11:22:19.7632643Z",
+      "content": "Young sports star Phil Dowdell has been named as one of the victims in a mass shooting at a teenager's birthday party in Alabama at the weekend.\r\nAt least four people were killed at the party in the … [+3077 chars]"
+    },
+    {
+      "source": { "id": "talksport", "name": "TalkSport" },
+      "author": "talkSPORT",
+      "title": "Football news LIVE: Title race set for blockbuster finish as Arsenal drop points, Bukayo Saka apologises...",
+      "description": "",
+      "url": "https://talksport.com/football/1396093/football-news-live-arsenal-title-race-man-city-saka-chelsea-nagelsmann/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/04/DK-TALKSPORT-BLOG-COMP-NEW-1.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+      "publishedAt": "2023-04-17T07:33:24Z",
+      "content": "News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services."
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": null,
+      "title": "Premier League reaction & Women's FA Cup: Arsenal drop points again",
+      "description": "Arsenal drop more points, Manchester United win and Chelsea reach Women's FA Cup final - all the reaction to Sunday's football plus build-up to Leeds v Liverpool.",
+      "url": "http://www.bbc.co.uk/sport/live/football/65296596",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+      "publishedAt": "2023-04-17T06:52:18.1067929Z",
+      "content": "Manchester City win again as leaders Arsenal drop more points.\r\nThe race for the Premier League title took another twist this weekend as Pep Guardiola's defending champions moved to within four point… [+471 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": "Maurice Moton",
+      "title": "Best Fantasy Football Landing Spots for Top Offensive Playmakers in 2023 NFL Draft",
+      "description": "Fantasy football managers spend countless hours searching for the next rising star, and they could find several gems among the headline prospects in the 2023…",
+      "url": "https://bleacherreport.com/articles/10072485-best-fantasy-football-landing-spots-for-top-offensive-playmakers-in-2023-nfl-draft",
+      "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1681590700/l2eafswau8jrhrjqad5a.jpg",
+      "publishedAt": "2023-04-16T11:00:00Z",
+      "content": "Brian Rothmuller/Icon Sportswire via Getty Images\r\nFantasy managers may want to temper their expectations for the incoming wide receiver class.\r\nAccording to the executive director of the Reese's Sen… [+2003 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "Alex Olbrecht, Jeremy Rosen and Aaron Schatz",
+      "title": "2023 NFL draft top quarterback projections: Rankings, stats",
+      "description": "Football Outsiders projects how top QB prospects Bryce Young, C.J. Stroud, Anthony Richardson and Will Levis will fare in the NFL.",
+      "url": "http://espn.go.com/nfl/insider/story/_/id/36162504/2023-nfl-draft-top-quarterback-projections-stats-bryce-young-cj-stroud-anthony-richardson-levis",
+      "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0412%2Fr1157825_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-04-15T11:00:00Z",
+      "content": "The 2023 NFL draft quarterback class is led by the highly touted Bryce Young, C.J. Stroud, Anthony Richardson and Will Levis -- and it is considerably more exciting than the class of 2022.\r\nYet even … [+9055 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+      "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+      "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+      "publishedAt": "2020-04-27T07:20:43Z",
+      "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+    }
+  ]
+}
